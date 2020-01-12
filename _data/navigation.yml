@@ -1,18 +1,10 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
 sidebar:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "CHIP-8 extensions"
+    url: /extensions/
+  - title: "CHIP-8 game database"
+    url: /database/
+  - title: "Links"
+    url: /links/
