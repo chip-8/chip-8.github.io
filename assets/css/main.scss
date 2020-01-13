@@ -9,3 +9,21 @@ $link-color: #000000;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.sidebar {
+  p, li {
+    font-size: 1em;
+  }
+
+  padding-right: 1em;
+}
+
+.page {
+  @include breakpoint($large) {
+    padding-right: 0;
+  }
+
+  @include breakpoint($x-large) {
+    padding-right: 0;
+  }
+}
