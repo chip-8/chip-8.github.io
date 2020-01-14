@@ -1,10 +1,10 @@
 main:
-  - title: "About"
-    url: /about/
-sidebar:
-  - title: "CHIP-8 extensions"
+  - title: "Extensions"
     url: /extensions/
-  - title: "CHIP-8 game database"
+  - title: "Game metadata"
     url: /database/
   - title: "Links"
     url: /links/
+  - title: "About"
+    url: /about/
+sidebar:
