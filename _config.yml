@@ -97,9 +97,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      toc: true
-      sidebar:
-        nav: "sidebar"
+      toc: false
   # _posts
   - scope:
       path: ""
