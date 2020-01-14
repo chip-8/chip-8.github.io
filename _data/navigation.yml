@@ -5,6 +5,4 @@ main:
     url: /database/
   - title: "Links"
     url: /links/
-  - title: "About"
-    url: /about/
 sidebar:
