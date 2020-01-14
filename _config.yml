@@ -116,3 +116,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+titles_from_headings:
+  strip_title: true
+  collections: false
