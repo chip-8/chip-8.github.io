@@ -1,8 +1,14 @@
 main:
+#  - title: "News"
+#    url: /blog/
   - title: "Extensions"
     url: /extensions/
+# - title: "Instructions"
+#   url: /instructions/
   - title: "Game metadata"
     url: /database/
+#  - title: "Files"
+#    url: /files/
   - title: "Links"
     url: /links/
 sidebar:

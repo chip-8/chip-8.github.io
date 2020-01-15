@@ -27,3 +27,19 @@ $link-color: #000000;
     padding-right: 0;
   }
 }
+
+.wide {
+  .page {
+    @include breakpoint($large) {
+      padding-left: 0;
+      float: left;
+      width: 100%;
+    }
+
+    @include breakpoint($x-large) {
+      padding-left: 0;
+      float: left;
+      width: 100%;
+    }
+  }
+}

@@ -1,7 +1,8 @@
 ---
-layout: single
+classes: wide
 author_profile: false
 toc: false
+sidebar: false
 ---
 
 # CHIP-8 Research Facility
