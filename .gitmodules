@@ -1,3 +1,6 @@
 [submodule "_includes/extensions"]
 	path = extensions
 	url = https://github.com/chip-8/extensions.git
+[submodule "links"]
+	path = links
+	url = https://github.com/tobiasvl/awesome-chip-8.git
