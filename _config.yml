@@ -34,6 +34,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  - links
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -55,6 +56,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-relative-links
 
 author:
   name   : "Tobias V. Langhoff"
@@ -81,7 +83,7 @@ footer:
       url: "https://github.com/chip-8"
 
 defaults:
-  # _pages
+  # root
   - scope:
       path: ""
     values:
