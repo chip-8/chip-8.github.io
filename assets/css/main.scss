@@ -43,3 +43,7 @@ $link-color: #000000;
     }
   }
 }
+
+h2#contents, h2#contents + ul {
+    display: none;
+}
